@@ -18,7 +18,8 @@
 
 ---
 
-### ⚙️ Tecnologías y herramientas
+### ⚙️ Technologies & Tools  
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -32,7 +33,10 @@
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-4B53BC?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-040D1F?style=for-the-badge&logo=ollama&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-4EAA3A?style=for-the-badge&logo=dbeaver&logoColor=white)
 ---
 
 ### 📊 Mis estadísticas GitHub
@@ -45,7 +49,7 @@
 
 ---
 
-### 🛠️ Proyectos destacados
+### 🛠️ Featured Projects  
 
 - :contentReference[oaicite:7]{index=7}
 - :contentReference[oaicite:8]{index=8}
@@ -53,7 +57,7 @@
 
 ---
 
-### 📫 Contacto & Redes
+### 📫 Contact & Socials  
 
 - 📧 **Correo:** (matiasobando160@gmail.com)
 - 💼 **LinkedIn:** (https://www.linkedin.com/in/mat%C3%ADas-obando-5b13b7324/)
