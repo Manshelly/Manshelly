@@ -14,7 +14,7 @@
 
 💬 Ask me about statistics, R, Python, Power BI, or building interactive dashboards
 
-⚡ Fun fact: I enjoy explorar datos como si fueran mapas del tesoro — siempre buscando insights escondidos que puedan marcar una diferencia real.
+⚡ Making data make sense — and look good doing it.
 
 ---
 
