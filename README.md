@@ -66,10 +66,10 @@
 ---
 
 ### 🚧 En este momento
-- 📝 Finalizando mi **monografía de graduación** sobre segmentación de clientes usando **K-Means**.
-- 🧭 Aprendiendo a crear **mapas estadísticos en R y Python**.
+- 📝 Finalizando mi **monografía de graduación** sobre Uso de la IA en estudiantes Universiatrios y su influencia e impacto en el rendimiento Academico**.
+- 🧭 Aprendiendo a crear **Automatizaciones usando N8n y Opal de Google**.
 - 🛠️ Desarrollando un **portafolio web profesional** para mis proyectos de datos.
-- 🧠 Explorando oportunidades de colaboración en análisis de datos enfocados en **Nicaragua**.
+- 🧠 Explorando oportunidades de colaboración en análisis de datos enfocados en **Latin America**.
 
 
 
